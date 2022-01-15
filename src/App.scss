@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+.background {
+  /* color: red; */
+  width: 200px;
+  height: 30px;
+  border: 2px solid red;
+}
+
+.progress {
+  background-color: blue;
+ 
+// animation-name: progress;
+  height: 20px;
+ width: 0%;
+  
+}
+
+
+
+
+
+
+
+
+
+/* @keyframes progress {
+  0% {
+    background-color: red;
+  }
+  33% {
+    background-color: red;
+  }
+  34% {
+    background-color: yellow;
+  }
+  70% {
+    background-color: yellow;
+  }
+  71% {
+    background-color: green;
+  }
+  100% {
+    background-color: green;
+  }
+} */
